@@ -1,0 +1,21 @@
+______        _  __             _                
+|  ___|      (_)/ _|           | |               
+| |_ _ __ ___ _| |_ _   _ _ __ | | __            
+|  _| '__/ _ \ |  _| | | | '_ \| |/ /            
+| | | | |  __/ | | | |_| | | | |   <             
+\_| |_|  \___|_|_|  \__,_|_| |_|_|\_\            
+ _____          _    _          _                
+|  ___|        | |  (_)        | |               
+| |__ _   _ ___| | ___ _ __ ___| |__   ___ _ __  
+|  __| | | / __| |/ / | '__/ __| '_ \ / _ \ '_ \ 
+| |__| |_| \__ \   <| | | | (__| | | |  __/ | | |
+\____/\__,_|___/_|\_\_|_|  \___|_| |_|\___|_| |_|
+
+Freifunk Euskirchen Node - Viel Spaß beim Freifunken :-)
+
+Befehle:
+
+autoupdater -f                    // Firmware-Update erzwingen
+logread      // logread -f        // syslog Ausgabe auf Konsole
+batctl gwl                        // batman-gateways inkl. Gewaehltes
+batctl o                          // batman Domain-Nachbarn anzeigen
