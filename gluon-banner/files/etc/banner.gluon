@@ -17,5 +17,5 @@ Befehle:
 
 autoupdater -f                    // Firmware-Update erzwingen
 logread      // logread -f        // syslog Ausgabe auf Konsole
-batctl gwl                        // batman-gateways inkl. Gewaehltes
+batctl gwl                        // batman-gateways inkl. aktuell gewaehltes
 batctl o                          // batman Domain-Nachbarn anzeigen
