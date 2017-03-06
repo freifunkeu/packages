@@ -21,9 +21,9 @@ echo -n "### uptime :  "
 uptime
 echo -n "### firmware :  "
 cat /lib/gluon/release
-echo -n "### Momentane Clients :    "
+echo -n "### direkt verbundene Clients :    "
 batctl tl |grep W |wc -l
-echo -n "### Gesammt Clients im Freifunk Netz :    "
+echo -n "### Clients insgesamt (Freifunk Euskirchen) :    "
 batctl tg |grep W |wc -l
 echo    "########################################"
 batctl gwl
